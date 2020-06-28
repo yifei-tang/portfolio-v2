@@ -175,7 +175,8 @@ class Projects extends Component{
                     <p>I made two versions of this portfolio, the first one using simple HTML, CSS and JavaScript and the second version with React. </p>
                     </div>
 
-                    <a href='https://github.com/yifei-tang/yifei-tang.github.io' class="project-links" target="_blank" rel="noopener noreferrer"><i class="fa fa-github"></i>  Click Here To See The Github Repository </a>
+                    <a href='https://github.com/yifei-tang/yifei-tang.github.io' class="project-links" target="_blank" rel="noopener noreferrer"><i class="fa fa-github"></i>  First Portfolio </a>
+                    <a href='https://github.com/yifei-tang/portfolio-v2' class="project-links" target="_blank" rel="noopener noreferrer"><i class="fa fa-github"></i>  Second Portfolio </a>
 
                 </Modal>
                 <Modal onClose={this.showFabModal} animationType="fade" show={this.state.showFab}>
