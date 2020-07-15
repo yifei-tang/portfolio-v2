@@ -19,7 +19,7 @@ class App extends Component {
         <Layout>
             <Drawer className="drawer" title="YiFei Tang" >
                 <Navigation >
-                    <Link to="/">About Me</Link>
+                    <Link to="/" onClick={()=>{this.setState({zIndex:4})}}>About Me</Link>
                     <Link to="/projects">Projects</Link>
                     <a href={require('./components/images/resume.pdf')} target="_blank" rel="noopener noreferrer">Resume</a>
                 </Navigation>

@@ -76,3 +76,9 @@ div.fade.in.modal{
     margin-top:20%;
   }
 }
+@media(max-width:500px){
+  .modal{
+    margin-top:50%;
+    width:90%;
+  }
+}
