@@ -19,15 +19,10 @@ class Landing extends Component{
                     </Cell>
                     <Cell col={9}>
                     <div className="banner-text">
-                        {/* <h1>YiFei Tang</h1>
-                        <hr/> */}
                         <div className="about-me">
-                        <p> Hello! My name is YiFei and I am a fourth year Computer Engineering student at the University of Toronto.
-                            My primary interests are: backend programming, cloud computing and android development. </p>
-                        <p> I am currently a software development intern at <strong>Amazon Web Services</strong> on the Amazon MQ team. Previously, I did a research internship at the <strong>National University of Singapore</strong>, using machine learning and computer vision to recognize user's medication. </p>
-                        <p>An avid programmer, I enjoy building fun side projects and going to Hackathons. I am currently working on a social media app for movie lovers. In the past, I have competed and won at Hack the North, RBC AmpHacks, and UofTHacks.
-                            </p>
-                            <p> I am currently seeking full time opportunities. Feel free to reach out to me if you like what you see! My email is yifeit.tang@mail.utoronto.ca</p>
+                        <p> Hello! My name is YiFei and I am a Software Engineer II at <strong>Amazon Web Services</strong></p> 
+                        <p> This portfolio showcases some of my experiences, side projects and hackathons! </p>
+                        <p> I am currently seeking full time opportunities. Feel free to reach out to me if you like what you see! My email is yifei1tang@gmail.com</p>
                         </div>
                         
                         <div className="social-media">
