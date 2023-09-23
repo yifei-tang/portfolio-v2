@@ -20,11 +20,13 @@ class Landing extends Component{
                     <Cell col={9}>
                     <div className="banner-text">
                         <div className="about-me">
-                        <p> Hello! My name is YiFei and I am a Software Engineer with almost 3 years of experience building large scale services.
-                            I am currently a Software Engineer II at <strong>Amazon Web Services</strong> working on the RabbitMQ team. My focus is on
+                        <p> Hello! My name is YiFei and I am a software engineer with almost 3 years of experience building large scale services. </p>
+
+                        <p> I am currently a Software Engineer II at <strong>Amazon Web Services</strong> working on the RabbitMQ team. My focus is on
                             creating new features for the customer, leading operational load reduction projects and effectively scaling the service. </p>
 
-                        <p> This portfolio showcases some of my work experiences, internships, and side projects! </p>
+                        <p> This portfolio showcases some of my work experiences, internships, and side projects! Feel free to reach out to 
+                            me at yifei1tang@gmail.com. </p>
                         </div>
                         
                         <div className="social-media">
