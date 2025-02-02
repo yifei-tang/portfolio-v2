@@ -39,7 +39,7 @@ class Landing extends Component{
                                 <i className="fa fa-linkedin-square" aria-hidden="true"/>
                             </a>
                             {/* Email */}
-                            <a href="mailto: yifeit.tang@mail.utoronto.ca" rel="noopener noreferrer" target="_blank">
+                            <a href="mailto: yifei1tang@gmail.com" rel="noopener noreferrer" target="_blank">
                                 <i className="fa fa-envelope" aria-hidden="true"/>
                             </a>
                         </div>
